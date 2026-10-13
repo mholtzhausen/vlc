@@ -7,6 +7,14 @@ This document is written for an engineer or coding agent who has **not** seen th
 conversation that produced it. Read it top to bottom once before starting; after that,
 use the phase sections as a work list.
 
+> **Design source (Figma):**
+> https://www.figma.com/design/Ewti3Do8MQbCKzyDbAZWC2/VLC-Redesign--Community-?node-id=0-1
+> — file key `Ewti3Do8MQbCKzyDbAZWC2`. The Figma file is the source of truth for every
+> visual decision. If you have the Figma MCP tools, use them with this file key and the
+> node IDs listed in §2.2 (see §2.1 for which tool to use when). When this document and
+> the Figma file disagree on a visual detail, the Figma file wins; when they disagree on
+> behaviour or feature scope, this document wins.
+
 ---
 
 ## 0. Context and goals
